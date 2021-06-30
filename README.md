@@ -1,7 +1,10 @@
-Chatting application made using react js and css and chat engine as backend 
-it has the following features:- create chat rooms, add members to the group, message in the group with sound notification and read recipts.
-it has a good GUI 
+![Screenshot 2021-06-30 222219](https://user-images.githubusercontent.com/83496915/124000858-a72caa00-d9f1-11eb-92ab-b1b9c90f095f.jpg)
+
+
+Realtime Chat Application with all features
+you can create chat rooms and add users to chat and communicate.
 
 to login use 
       id: github
 password: pass
+
