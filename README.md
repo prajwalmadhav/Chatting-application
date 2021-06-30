@@ -4,7 +4,9 @@
 Realtime Chat Application with all features
 you can create chat rooms and add users to chat and communicate.
 
-to login use 
-      id: github
+click the link below to checkout the applciation!!
+https://weneedtotalk.netlify.app/
+
+Login ID: github
 password: pass
 
