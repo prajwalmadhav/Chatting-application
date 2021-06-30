@@ -7,6 +7,6 @@ you can create chat rooms and add users to chat and communicate.
 click the link below to checkout the applciation!!
 https://weneedtotalk.netlify.app/
 
-Login ID: github
+Login ID: helloworld
 password: pass
 
